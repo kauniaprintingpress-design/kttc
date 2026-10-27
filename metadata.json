@@ -1,0 +1,6 @@
+{
+  "name": "চান্দা ভাই",
+  "description": "একটি মজাদার বাংলাদেশি স্ট্রিট আর্কেড গেম। চান্দা আদায় করুন, পুলিশ ও ধাওয়া এড়িয়ে লক্ষ্য পূরণ করুন!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
